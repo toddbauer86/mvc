@@ -68,7 +68,7 @@
   }
   
   header {
-    border-bottom: 1px solid #6ba8fe;
+    border-bottom: 1px solid #626262;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -86,7 +86,7 @@
     padding: 0;
     cursor: pointer;
     text-decoration: none;
-    color: #225ca3;
+    color: #2184fe;
     font-size: 100%;
     font-weight: bold;
     transition: color .1s;
@@ -114,7 +114,7 @@
   .post .title span {
     font-style: italic;
     font-size: 90%;
-    color: #6ba8fe;
+    color: #626262;
   }
   
   .edit-link {
@@ -132,7 +132,7 @@
   }
   
   .comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color: #ecefff;
   }
   
   .comment .meta {
@@ -146,7 +146,7 @@
   }
   
   footer {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid rgb(161, 161, 161);
     display: flex;
     justify-content: center;
     padding: 1%;
