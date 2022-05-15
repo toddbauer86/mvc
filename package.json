@@ -9,6 +9,9 @@
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
+  "engines": {
+    "node": "10.16.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/priyaravi23/mvc-tech-blog.git"
